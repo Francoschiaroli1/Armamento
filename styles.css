@@ -1,0 +1,19 @@
+body { 
+    background-color:darkgray;
+
+}
+.IMG-ini { 
+    text-align: center;
+}
+section { 
+    height: 100vh
+}
+article { text-align: center;
+           height: 30vh; 
+}
+.Img-tactic {
+     text-align: center;
+}
+h2 {
+    text-align: center;
+}
